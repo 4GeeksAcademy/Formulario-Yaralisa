@@ -41,3 +41,7 @@ legend {
 .input-container span {
     margin-right: 5px; /* Espacio entre el símbolo y el input */
 }
+.b-pagos{
+display: table-row-group;
+width: 12%;
+}
